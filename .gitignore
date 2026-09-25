@@ -1,9 +1,6 @@
 # Original/reference binaries: keep local unless redistribution rights are clear.
-reference/S8.EXE
-reference/*.EXE
 
 # Generated disassembly/build output
-build/
 *.bin
 *.o
 *.obj
